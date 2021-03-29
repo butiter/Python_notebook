@@ -1,0 +1,1 @@
+- This is a Python note for beginners
